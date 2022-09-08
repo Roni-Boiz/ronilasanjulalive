@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ronilasanjulalive/static/css/main.1a55684d.chunk.css",
-    "main.js": "/ronilasanjulalive/static/js/main.0173105b.chunk.js",
-    "main.js.map": "/ronilasanjulalive/static/js/main.0173105b.chunk.js.map",
+    "main.js": "/ronilasanjulalive/static/js/main.af4e859c.chunk.js",
+    "main.js.map": "/ronilasanjulalive/static/js/main.af4e859c.chunk.js.map",
     "runtime-main.js": "/ronilasanjulalive/static/js/runtime-main.0b354f46.js",
     "runtime-main.js.map": "/ronilasanjulalive/static/js/runtime-main.0b354f46.js.map",
     "static/js/2.2afd15cc.chunk.js": "/ronilasanjulalive/static/js/2.2afd15cc.chunk.js",
     "static/js/2.2afd15cc.chunk.js.map": "/ronilasanjulalive/static/js/2.2afd15cc.chunk.js.map",
     "index.html": "/ronilasanjulalive/index.html",
-    "precache-manifest.65b4c72d6c498a687b29fe8d2a159292.js": "/ronilasanjulalive/precache-manifest.65b4c72d6c498a687b29fe8d2a159292.js",
+    "precache-manifest.0e343b32d2dd95f2267080b201abda53.js": "/ronilasanjulalive/precache-manifest.0e343b32d2dd95f2267080b201abda53.js",
     "service-worker.js": "/ronilasanjulalive/service-worker.js",
     "static/css/main.1a55684d.chunk.css.map": "/ronilasanjulalive/static/css/main.1a55684d.chunk.css.map",
     "static/media/index.css": "/ronilasanjulalive/static/media/Montserrat-Regular.ee653992.ttf",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.0b354f46.js",
     "static/js/2.2afd15cc.chunk.js",
     "static/css/main.1a55684d.chunk.css",
-    "static/js/main.0173105b.chunk.js"
+    "static/js/main.af4e859c.chunk.js"
   ]
 }

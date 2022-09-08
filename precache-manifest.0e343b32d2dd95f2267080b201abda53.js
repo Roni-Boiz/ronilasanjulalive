@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78ece495a03e0f34b66e40a33ef58294",
+    "revision": "32022e846057d9e76a7d4ec8fefd7595",
     "url": "/ronilasanjulalive/index.html"
   },
   {
-    "revision": "b07bb6c74bd9fb6ee3c4",
+    "revision": "7dda2e5c4d28ffebb011",
     "url": "/ronilasanjulalive/static/css/main.1a55684d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronilasanjulalive/static/js/2.2afd15cc.chunk.js"
   },
   {
-    "revision": "b07bb6c74bd9fb6ee3c4",
-    "url": "/ronilasanjulalive/static/js/main.0173105b.chunk.js"
+    "revision": "7dda2e5c4d28ffebb011",
+    "url": "/ronilasanjulalive/static/js/main.af4e859c.chunk.js"
   },
   {
     "revision": "d0a1248f103bce1b2b94",
