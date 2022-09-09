@@ -670,100 +670,72 @@ const projectGal = {
   description:
     "Look overview of some projects I have done so far.",
   projects: [
-    {
-      title: "DEInclusive",
-      subTitle: "",
-      description: "A platform to build a diverse workspace, give more opportunities and awareness focusing on under serve communities, by organizing events, proving courses and Job openings.",
-      project_images_path: [
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-      ],
-    },
-    {
-      title: "Apartment Life Support System",
-      subTitle: "ALSS",
-      description: "A platform to manage and provide services related to residents such as Reservations (Function hall, Fitness center, Treatment room), Request (Maintenance, Laundry), Announcements, Bill, Payments, etc.",
-      project_images_path: [
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-        {
-          original: 'https://picsum.photos/id/1018/1000/600/',
-          thumbnail: 'https://picsum.photos/id/1018/250/150/',
-        },
-      ],
-    },
+    // {
+    //   title: "DEInclusive",
+    //   subTitle: "",
+    //   description: "A platform to build a diverse workspace, give more opportunities and awareness focusing on under serve communities, by organizing events, proving courses and Job openings.",
+    //   project_images_path: [
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //   ],
+    // },
+    // {
+    //   title: "Apartment Life Support System",
+    //   subTitle: "ALSS",
+    //   description: "A platform to manage and provide services related to residents such as Reservations (Function hall, Fitness center, Treatment room), Request (Maintenance, Laundry), Announcements, Bill, Payments, etc.",
+    //   project_images_path: [
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //   ],
+    // },
 
-    {
-      title: "Tour Management",
-      subTitle: "",
-      description: "A single user application with layered architecture to manage work of Tour Agency. Here we can manage Tours, Guests, Guides, Vehicals, Hotels, Places. System can create tour report, Guest reports and Guide reports.",
-      project_images_path: [
-        {
-          original: 'tour-management/1.png',
-          thumbnail: 'tour-management/1.png',
-        },
-        {
-          original: 'tour-management/2.png',
-          thumbnail: 'tour-management/2.png',
-        },
-        {
-          original: 'tour-management/3.png',
-          thumbnail: 'tour-management/3.png',
-        },
-        {
-          original: 'tour-management/4.png',
-          thumbnail: 'tour-management/4.png',
-        },
-        {
-          original: 'tour-management/5.png',
-          thumbnail: 'tour-management/5.png',
-        },
-        {
-          original: 'tour-management/6.png',
-          thumbnail: 'tour-management/6.png',
-        },
-        {
-          original: 'tour-management/7.png',
-          thumbnail: 'tour-management/7.png',
-        },
-        {
-          original: 'tour-management/8.png',
-          thumbnail: 'tour-management/8.png',
-        },
-      ],
-    },
+    // {
+    //   title: "Tour Management",
+    //   subTitle: "",
+    //   description: "A single user application with layered architecture to manage work of Tour Agency. Here we can manage Tours, Guests, Guides, Vehicals, Hotels, Places. System can create tour report, Guest reports and Guide reports.",
+    //   project_images_path: [
+    //     {
+    //       original: 'https://picsum.photos/id/1018/1000/600/',
+    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
+    //     },
+    //   ],
+    // },
     // {
     //   title: "",
     //   subTitle: "",
