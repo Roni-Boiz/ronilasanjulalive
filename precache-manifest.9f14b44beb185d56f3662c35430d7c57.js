@@ -1,23 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "889b93eee0e7ce898bfc372ed497fbce",
+    "revision": "c683eca1fad0ed5be3affca779f199f6",
     "url": "/ronilasanjulalive/index.html"
   },
   {
-    "revision": "62ab310bbff8fef67378",
-    "url": "/ronilasanjulalive/static/css/main.1a55684d.chunk.css"
+    "revision": "625f192caa7d7a05279f",
+    "url": "/ronilasanjulalive/static/css/2.41bc09fa.chunk.css"
   },
   {
-    "revision": "66f362c81beb4bcbd16e",
-    "url": "/ronilasanjulalive/static/js/2.2afd15cc.chunk.js"
+    "revision": "73cb9e7061c5706d5740",
+    "url": "/ronilasanjulalive/static/css/main.a29412a2.chunk.css"
   },
   {
-    "revision": "62ab310bbff8fef67378",
-    "url": "/ronilasanjulalive/static/js/main.e0d8c7fa.chunk.js"
+    "revision": "625f192caa7d7a05279f",
+    "url": "/ronilasanjulalive/static/js/2.64f87cb0.chunk.js"
+  },
+  {
+    "revision": "73cb9e7061c5706d5740",
+    "url": "/ronilasanjulalive/static/js/main.a646c3f3.chunk.js"
   },
   {
     "revision": "d0a1248f103bce1b2b94",
     "url": "/ronilasanjulalive/static/js/runtime-main.0b354f46.js"
+  },
+  {
+    "revision": "69f621fcd811e424e1264479ecc662c9",
+    "url": "/ronilasanjulalive/static/media/1.69f621fc.png"
+  },
+  {
+    "revision": "85598ed7b6b9adbefa1693e0fbe323fe",
+    "url": "/ronilasanjulalive/static/media/2.85598ed7.png"
+  },
+  {
+    "revision": "b049733e629834d1729d4d33a233b2f5",
+    "url": "/ronilasanjulalive/static/media/3.b049733e.png"
+  },
+  {
+    "revision": "43ff0cda4f7cf4c112fae92468c14b13",
+    "url": "/ronilasanjulalive/static/media/4.43ff0cda.png"
+  },
+  {
+    "revision": "9313856d6f7abd914de6a07e462a3a8c",
+    "url": "/ronilasanjulalive/static/media/5.9313856d.png"
+  },
+  {
+    "revision": "5e98a5746108d11c617b305c3d5cf915",
+    "url": "/ronilasanjulalive/static/media/6.5e98a574.png"
+  },
+  {
+    "revision": "f9ed6e6b32d04ab20c02a4c9cca70c3e",
+    "url": "/ronilasanjulalive/static/media/7.f9ed6e6b.png"
+  },
+  {
+    "revision": "8769f06c9ccd9c36b6a14536ee3b4f6b",
+    "url": "/ronilasanjulalive/static/media/8.8769f06c.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
