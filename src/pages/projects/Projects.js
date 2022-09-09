@@ -2,15 +2,16 @@ import React, { Component } from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
-import PublicationCard from "../../components/publicationsCard/PublicationCard";
+// import PublicationCard from "../../components/publicationsCard/PublicationCard";
 import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
-import { greeting, projectsHeader, publicationsHeader } from "../../portfolio.js";
+import { greeting, projectsHeader, projectGal } from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
-import PublicationData from "../../shared/opensource/publications.json";
+// import PublicationData from "../../shared/opensource/publications.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
+import ProjectGallery from "./ProjectGallery";
 
 class Projects extends Component {
   render() {
@@ -68,13 +69,13 @@ class Projects extends Component {
                   className="publications-heading-text"
                   style={{ color: theme.text }}
                 >
-                  {publicationsHeader.title}
+                  {projectGal.title}
                 </h1>
                 <p
                   className="projects-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {publicationsHeader["description"]}
+                  {projectGal["description"]}
                 </p>
               </div>
             </div>
@@ -82,8 +83,9 @@ class Projects extends Component {
         </div>
 
         <div className="repo-cards-div-main">
-          {PublicationData.data.map((repo) => {
-            return <PublicationCard repo={repo} theme={theme} />;
+          {projectGal.projects.map((project) => {
+            console.log(project.project_images_path);
+            return <ProjectGallery project={project} theme={theme} />;
           })}
         </div>
 
