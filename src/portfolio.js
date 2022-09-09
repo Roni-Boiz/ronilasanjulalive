@@ -407,7 +407,7 @@ const skills = {
           fontAwesomeClassname: "logos:godot-icon",
         },
         {
-          skillName: "Godot",
+          skillName: "Arduino",
           fontAwesomeClassname: "logos:arduino",
         },
       ],
