@@ -256,6 +256,7 @@ const languages_icons = {
   Dockerfile: "simple-icons:docker",
   Rust: "logos-rust",
   Flutter: "simple-icons:flutter",
+  Dart: "logos:dart",
   "C++": "vscode-icons:file-type-cpp3",
   Mysql: "logos:mysql",
 };
