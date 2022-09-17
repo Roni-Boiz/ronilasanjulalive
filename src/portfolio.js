@@ -925,7 +925,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Colombo, Sri Lanka",
+      "Colombo, Sri Lanka.",
     avatar_image_path: "address_image.svg",
     location_map_link: "",
   },
