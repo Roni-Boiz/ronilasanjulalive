@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Ronila Sanjula",
   logo_name: "Ronila Sanjula",
-  nickname: "roni_boiz",
+  nickname: "ronila_sanjula",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -599,7 +599,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have work experience in accouting and managing people as well as handling customers. I have suppoert to deployee a POS system  and train people and document how to use the system (issue GRN, GIN, Create Invoices, and Purchase Orders). I love team work and open sourse products so, I will contribute to many opensource communities and projects.",
+    "I have work experience in accouting and managing people as well as handling customers. I have supported to deploy a POS system  and train people and document how to use the system (issue GRN, GIN, Create Invoices and Purchase Orders). I love team work and open source products so, I will contribute to many open source communities and projects.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -635,7 +635,7 @@ const experience = {
       ],
     },
     {
-      title: "Volunteerships",
+      title: "Volunteer Work",
       experiences: [
         // {
         //   title: "Google Explore ML Facilitator",
@@ -670,87 +670,240 @@ const projectGal = {
   description:
     "Look overview of some projects I have done so far.",
   projects: [
-    // {
-    //   title: "DEInclusive",
-    //   subTitle: "",
-    //   description: "A platform to build a diverse workspace, give more opportunities and awareness focusing on under serve communities, by organizing events, proving courses and Job openings.",
-    //   project_images_path: [
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //   ],
-    // },
-    // {
-    //   title: "Apartment Life Support System",
-    //   subTitle: "ALSS",
-    //   description: "A platform to manage and provide services related to residents such as Reservations (Function hall, Fitness center, Treatment room), Request (Maintenance, Laundry), Announcements, Bill, Payments, etc.",
-    //   project_images_path: [
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //   ],
-    // },
+    {
+      title: "DEInclusive",
+      subTitle: "",
+      description: "A platform to build a diverse workspace, give more opportunities and awareness focusing on under serve communities, by organizing events, proving courses and Job openings.",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/1.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/1.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/2.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/2.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/4.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/4.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/5.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/5.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/6.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/DEInclusive/6.jpeg',
+        },
+      ],
+    },
+    {
+      title: "Apartment Life Support System",
+      subTitle: "ALSS",
+      description: "A platform to manage and provide services related to residents such as Reservations (Function hall, Fitness center, Treatment room), Request (Maintenance, Laundry), Announcements, Bill, Payments, etc.",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/0.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/0.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/1.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/1.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/2.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/2.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/3.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/3.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/4.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/4.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/5.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/5.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/6.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/6.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/7.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/7.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/8.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/8.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/9.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/9.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/10.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/10.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/11.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/11.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/12.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/12.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/13.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/13.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/14.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/ALSS/14.jpeg',
+        },
+      ],
+    },
 
-    // {
-    //   title: "Tour Management",
-    //   subTitle: "",
-    //   description: "A single user application with layered architecture to manage work of Tour Agency. Here we can manage Tours, Guests, Guides, Vehicals, Hotels, Places. System can create tour report, Guest reports and Guide reports.",
-    //   project_images_path: [
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //   ],
-    // },
-    // {
-    //   title: "",
-    //   subTitle: "",
-    //   description: "",
-    //   project_images_path: [
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //     {
-    //       original: 'https://picsum.photos/id/1018/1000/600/',
-    //       thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    //     },
-    //   ],
-    // },
+    {
+      title: "Tour Management",
+      subTitle: "",
+      description: "A single user application with layered architecture to manage work of Tour Agency. Here we can manage Tours, Guests, Guides, Vehicals, Hotels, Places. System can create tour report, Guest reports and Guide reports.",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/1.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/1.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/2.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/2.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/3.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/3.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/4.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/4.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/5.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/5.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/6.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/6.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/7.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/7.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/8.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/tour-management/8.png',
+        },
+      ],
+    },
+    {
+      title: "3D Solar System",
+      subTitle: "",
+      description: "A animated 3D solar system render and display on web browser using WebGL. Able to control lighting, planet rotation speed, freeze them, etc.",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/1.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/1.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/2.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/2.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/3.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/3.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/4.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SolarSystem/4.png',
+        },
+      ],
+    },
+    {
+      title: "Jump To Survive",
+      subTitle: "",
+      description: "Fun 2D jump game to collect coins and kill the enemies. There are several level, finish them to reach final level (boss fight).",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/1.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/1.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/2.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/2.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/3.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/3.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/4.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/4.jpeg',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/5.jpeg',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/JumpToSurvive/5.jpeg',
+        },
+      ],
+    }, 
+    {
+      title: "Smart Multiplug",
+      subTitle: "",
+      description: "An Arduino based smart plug which is operated through an Android based desktop application with real time processing . This allows the user to view plugs which are currently on and set time to switch off.",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/1.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/1.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/2.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/2.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/3.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/3.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/4.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/4.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/5.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/SmartMultiplug/5.png',
+        },
+      ],
+    },
+    {
+      title: "POS System",
+      subTitle: "",
+      description: "A graphical user POS system with MVC architecture to manage customers, items, and orders. We can print details of customers and invoices.",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/1.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/1.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/2.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/2.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/3.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/3.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/4.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/POS/4.png',
+        },
+      ],
+    },
   ],
 };
 
