@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47006ea87cfe6dac0e71642cc8167ac0",
+    "revision": "6bdff8578c54de82354f94e5568b5fc1",
     "url": "/ronilasanjulalive/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronilasanjulalive/static/css/2.41bc09fa.chunk.css"
   },
   {
-    "revision": "cf78b44a0e83d4803320",
+    "revision": "d90dfa5ad440499c586e",
     "url": "/ronilasanjulalive/static/css/main.adb62afa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronilasanjulalive/static/js/2.ce605ce6.chunk.js"
   },
   {
-    "revision": "cf78b44a0e83d4803320",
-    "url": "/ronilasanjulalive/static/js/main.2c80b754.chunk.js"
+    "revision": "d90dfa5ad440499c586e",
+    "url": "/ronilasanjulalive/static/js/main.f6657439.chunk.js"
   },
   {
     "revision": "d0a1248f103bce1b2b94",
