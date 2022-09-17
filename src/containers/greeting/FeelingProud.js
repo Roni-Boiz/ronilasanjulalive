@@ -31,7 +31,7 @@ class FeelingProud extends Component {
                       &lt;<i>code</i>&gt; I build&nbsp;
                       <Typed
                         strings={[
-                          "web application.",
+                          "web applications.",
                           "mobile applications.",
                           "automation tools.",
                           "design mocups.",
