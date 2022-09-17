@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import "./FeelingProud.css";
 import Button from "../../components/button/Button";
+import ScriptTag from 'react-script-tag';
+import Typed from 'react-typed'
 
 class FeelingProud extends Component {
 
@@ -25,9 +27,22 @@ class FeelingProud extends Component {
 
                     <h1 className="mb-15">My Career Path!</h1>
 
-                    <div className="art-lg-text art-code mb-25">&lt;<i>code</i>&gt; I build <span className="txt-rotate" data-period="2000"
-                      data-rotate='[ "web interfaces.", "ios and android applications.", "design mocups.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
-
+                    <div className="art-lg-text art-code mb-25 cursor">
+                      &lt;<i>code</i>&gt; I build&nbsp;
+                      <Typed
+                        strings={[
+                          "web application.",
+                          "mobile applications.",
+                          "automation tools.",
+                          "design mocups.",
+                          "2D/3D games.",
+                        ]}
+                        typeSpeed={100}
+                        backSpeed={30}
+                        loop
+                      />
+                      &lt;/<i>code</i>&gt;
+                    </div>
 
                     <div className="art-buttons-frame">
 
@@ -53,6 +68,7 @@ class FeelingProud extends Component {
           </div>
 
         </div>
+        <ScriptTag type="text/javascript" src="/path/to/resource.js" />
       </>
     );
   }

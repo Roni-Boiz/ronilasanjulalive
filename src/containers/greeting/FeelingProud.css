@@ -2,6 +2,13 @@
     background-image: url('./../../../src/assests/images/feeling_proud_background.svg');
 }
 
+.cursor{
+  color: #fafafc !important;
+  font-family: "Courier Prime", monospace !important;
+  font-size: 16px;
+  
+}
+
 h1 {
   font-size: 52px;
   font-weight: 800;
