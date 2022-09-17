@@ -927,7 +927,7 @@ const contactPageData = {
     subtitle:
       "Colombo, Sri Lanka",
     avatar_image_path: "address_image.svg",
-    // location_map_link: "https://www.google.com/maps/dir/6.792423,79.8954461",
+    location_map_link: "",
   },
   phoneSection: {
     title: "Phone Number",
