@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bdff8578c54de82354f94e5568b5fc1",
+    "revision": "ec651a550841fc12375bf5e53add347a",
     "url": "/ronilasanjulalive/index.html"
   },
   {
-    "revision": "90897f8df395293b17cf",
+    "revision": "ebcb29c5449e5357e198",
     "url": "/ronilasanjulalive/static/css/2.41bc09fa.chunk.css"
   },
   {
-    "revision": "d90dfa5ad440499c586e",
+    "revision": "ee78d215213feb5698be",
     "url": "/ronilasanjulalive/static/css/main.adb62afa.chunk.css"
   },
   {
-    "revision": "90897f8df395293b17cf",
-    "url": "/ronilasanjulalive/static/js/2.ce605ce6.chunk.js"
+    "revision": "ebcb29c5449e5357e198",
+    "url": "/ronilasanjulalive/static/js/2.a4e18feb.chunk.js"
   },
   {
-    "revision": "d90dfa5ad440499c586e",
-    "url": "/ronilasanjulalive/static/js/main.f6657439.chunk.js"
+    "revision": "ee78d215213feb5698be",
+    "url": "/ronilasanjulalive/static/js/main.1def2d54.chunk.js"
   },
   {
     "revision": "d0a1248f103bce1b2b94",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "27655a33ba5589da797d5ef39ce0f49f",
     "url": "/ronilasanjulalive/static/media/1.27655a33.jpeg"
+  },
+  {
+    "revision": "3c0b1812d2ed167d59b65741e9fbb9c0",
+    "url": "/ronilasanjulalive/static/media/1.3c0b1812.png"
   },
   {
     "revision": "5658620de67d5c6659a3ad1ccd89780b",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ecd6eb3169ff046550a39747380d59cb",
     "url": "/ronilasanjulalive/static/media/1.ecd6eb31.png"
+  },
+  {
+    "revision": "c4803377a8256d65245f930ede6048bb",
+    "url": "/ronilasanjulalive/static/media/10.c4803377.png"
   },
   {
     "revision": "cd8b1214b9c770d83559eed0d1aee2d2",
@@ -82,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "85598ed7b6b9adbefa1693e0fbe323fe",
     "url": "/ronilasanjulalive/static/media/2.85598ed7.png"
+  },
+  {
+    "revision": "cd071826af7654d53534fed7018fbce8",
+    "url": "/ronilasanjulalive/static/media/2.cd071826.png"
   },
   {
     "revision": "cd2277372c84bd9dc1901a81fbd03574",
@@ -124,12 +136,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronilasanjulalive/static/media/3.b049733e.png"
   },
   {
+    "revision": "c8cddbb19ca429fd1dc12daa87ee0d7a",
+    "url": "/ronilasanjulalive/static/media/3.c8cddbb1.png"
+  },
+  {
     "revision": "e8de1ba4a5a18c4719cc523c3e4f1f94",
     "url": "/ronilasanjulalive/static/media/3.e8de1ba4.png"
   },
   {
     "revision": "efaef7eea40190b0cac6607963a38f5b",
     "url": "/ronilasanjulalive/static/media/3.efaef7ee.jpeg"
+  },
+  {
+    "revision": "13d4e2f4e3eed7a0ddc50a5f02930dc9",
+    "url": "/ronilasanjulalive/static/media/4.13d4e2f4.png"
   },
   {
     "revision": "1f952e5d36cdfdf89211de0330a89d97",
@@ -164,6 +184,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronilasanjulalive/static/media/5.03772ae5.jpeg"
   },
   {
+    "revision": "39fd6db2947c9bd1fc063aaaba2dc7ae",
+    "url": "/ronilasanjulalive/static/media/5.39fd6db2.png"
+  },
+  {
     "revision": "7f56b18df75374f2f1d0894291a08460",
     "url": "/ronilasanjulalive/static/media/5.7f56b18d.png"
   },
@@ -178,6 +202,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ad9380a26386fff9338b2d7316db2765",
     "url": "/ronilasanjulalive/static/media/5.ad9380a2.jpeg"
+  },
+  {
+    "revision": "19a3dcce509c6b1ecb82ebec3f990880",
+    "url": "/ronilasanjulalive/static/media/6.19a3dcce.png"
   },
   {
     "revision": "5e98a5746108d11c617b305c3d5cf915",
@@ -196,8 +224,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronilasanjulalive/static/media/7.1b4ed4df.jpeg"
   },
   {
+    "revision": "e9f2fbe49a93674949683b47a952f14c",
+    "url": "/ronilasanjulalive/static/media/7.e9f2fbe4.png"
+  },
+  {
     "revision": "f9ed6e6b32d04ab20c02a4c9cca70c3e",
     "url": "/ronilasanjulalive/static/media/7.f9ed6e6b.png"
+  },
+  {
+    "revision": "1c3649cfd35d3ae0358e96780380799d",
+    "url": "/ronilasanjulalive/static/media/8.1c3649cf.png"
   },
   {
     "revision": "6a62dc2e4ed816656408f9ef3bb8fb87",
@@ -206,6 +242,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8769f06c9ccd9c36b6a14536ee3b4f6b",
     "url": "/ronilasanjulalive/static/media/8.8769f06c.png"
+  },
+  {
+    "revision": "a409c908e81fca58cf261235418221aa",
+    "url": "/ronilasanjulalive/static/media/9.a409c908.png"
   },
   {
     "revision": "b0dc32bf11a02ef7ca80654a48a29d00",

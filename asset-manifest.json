@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/ronilasanjulalive/static/css/main.adb62afa.chunk.css",
-    "main.js": "/ronilasanjulalive/static/js/main.f6657439.chunk.js",
-    "main.js.map": "/ronilasanjulalive/static/js/main.f6657439.chunk.js.map",
+    "main.js": "/ronilasanjulalive/static/js/main.1def2d54.chunk.js",
+    "main.js.map": "/ronilasanjulalive/static/js/main.1def2d54.chunk.js.map",
     "runtime-main.js": "/ronilasanjulalive/static/js/runtime-main.0b354f46.js",
     "runtime-main.js.map": "/ronilasanjulalive/static/js/runtime-main.0b354f46.js.map",
     "static/css/2.41bc09fa.chunk.css": "/ronilasanjulalive/static/css/2.41bc09fa.chunk.css",
-    "static/js/2.ce605ce6.chunk.js": "/ronilasanjulalive/static/js/2.ce605ce6.chunk.js",
-    "static/js/2.ce605ce6.chunk.js.map": "/ronilasanjulalive/static/js/2.ce605ce6.chunk.js.map",
+    "static/js/2.a4e18feb.chunk.js": "/ronilasanjulalive/static/js/2.a4e18feb.chunk.js",
+    "static/js/2.a4e18feb.chunk.js.map": "/ronilasanjulalive/static/js/2.a4e18feb.chunk.js.map",
     "index.html": "/ronilasanjulalive/index.html",
-    "precache-manifest.ef01187acfba7bcdd53047fcb8e46aaa.js": "/ronilasanjulalive/precache-manifest.ef01187acfba7bcdd53047fcb8e46aaa.js",
+    "precache-manifest.39292d0aa6e64e607ca8c32215dffc07.js": "/ronilasanjulalive/precache-manifest.39292d0aa6e64e607ca8c32215dffc07.js",
     "service-worker.js": "/ronilasanjulalive/service-worker.js",
     "static/css/2.41bc09fa.chunk.css.map": "/ronilasanjulalive/static/css/2.41bc09fa.chunk.css.map",
     "static/css/main.adb62afa.chunk.css.map": "/ronilasanjulalive/static/css/main.adb62afa.chunk.css.map",
     "static/media/0.png": "/ronilasanjulalive/static/media/0.fa96d40f.png",
     "static/media/1.jpeg": "/ronilasanjulalive/static/media/1.a35c1a43.jpeg",
     "static/media/1.png": "/ronilasanjulalive/static/media/1.ecd6eb31.png",
+    "static/media/10.png": "/ronilasanjulalive/static/media/10.c4803377.png",
     "static/media/10.jpeg": "/ronilasanjulalive/static/media/10.cd8b1214.jpeg",
     "static/media/11.jpeg": "/ronilasanjulalive/static/media/11.807eedfa.jpeg",
     "static/media/12.jpeg": "/ronilasanjulalive/static/media/12.2945f70b.jpeg",
@@ -33,8 +34,9 @@
     "static/media/6.jpeg": "/ronilasanjulalive/static/media/6.fcd9a241.jpeg",
     "static/media/7.jpeg": "/ronilasanjulalive/static/media/7.1b4ed4df.jpeg",
     "static/media/7.png": "/ronilasanjulalive/static/media/7.f9ed6e6b.png",
-    "static/media/8.jpeg": "/ronilasanjulalive/static/media/8.6a62dc2e.jpeg",
     "static/media/8.png": "/ronilasanjulalive/static/media/8.8769f06c.png",
+    "static/media/8.jpeg": "/ronilasanjulalive/static/media/8.6a62dc2e.jpeg",
+    "static/media/9.png": "/ronilasanjulalive/static/media/9.a409c908.png",
     "static/media/9.jpeg": "/ronilasanjulalive/static/media/9.b0dc32bf.jpeg",
     "static/media/index.css": "/ronilasanjulalive/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/SLOMF.png": "/ronilasanjulalive/static/media/SLOMF.d1be661f.png",
@@ -85,8 +87,8 @@
   "entrypoints": [
     "static/js/runtime-main.0b354f46.js",
     "static/css/2.41bc09fa.chunk.css",
-    "static/js/2.ce605ce6.chunk.js",
+    "static/js/2.a4e18feb.chunk.js",
     "static/css/main.adb62afa.chunk.css",
-    "static/js/main.f6657439.chunk.js"
+    "static/js/main.1def2d54.chunk.js"
   ]
 }
