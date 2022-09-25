@@ -805,6 +805,53 @@ const projectGal = {
       ],
     },
     {
+      title: "Warrior Game",
+      subTitle: "",
+      description: "This is a platformer game build using Unity game Engine. The main character of this game is warrior, need to pass several rooms with deadly trap in each level, and need to collect all the starts available in each level to advance to next level. Here I also added extra lives and checkpoint for the player to respawn upon dead instead starting from the beginning.",
+      project_images_path: [
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/1.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/1.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/2.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/2.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/3.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/3.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/4.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/4.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/5.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/5.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/6.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/6.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/7.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/7.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/8.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/8.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/9.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/9.png',
+        },
+        {
+          original: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/10.png',
+          thumbnail: 'https://raw.githubusercontent.com/Roni-Boiz/ronilasanjulalive/main/src/assests/images/Warrior/10.png',
+        },
+      ],
+    },
+    {
       title: "3D Solar System",
       subTitle: "",
       description: "A animated 3D solar system render and display on web browser using WebGL. Able to control lighting, planet rotation speed, freeze them, etc.",
