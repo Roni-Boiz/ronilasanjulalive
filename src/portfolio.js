@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/resume",
+    "https://drive.google.com/file/d/14_9lMsGF5-PIgfFSXqEn6ypbkB_AfNOO/view?usp=sharing",
   portfolio_repository: "https://github.com/Roni-Boiz/ronilasanjulalive",
   githubProfile: "https://github.com/Roni-Boiz",
 };
@@ -76,9 +76,9 @@ const skills = {
       title: "Data Science: ML & AI",
       fileName: "DataScienceImg",
       skills: [
+        "⚡ Have hand on experience on transfer learning and using pre trainded models such as MobileNet, AlexNet, VGG16, VOLOv8, VOLO-NAS, SAM and Detectron2",
+        "⚡ Working on a software system that combines all of deep learning and computer vision (detection and segmentation) to predict disease in agricultural crops using images and videos",
         "⚡ Working on module to give recomendation to Jobs and Courses by users profile details (CV)",
-        "⚡ Beginner knowledge in computer grapics and image processing",
-        "⚡ Hands on experience and knowledge on Linear Regression, Logistic Regression, Reguralization, ANN, Naive Bayes, SVM",
       ],
       softwareSkills: [
         {
@@ -448,7 +448,7 @@ const degrees = {
       descriptions: [
         "⚡ I have studied software engineering subjects like Data Structures and Algorithms, OOP, DBMS, CS, OS, CA, CN, SPM, SQA, ML etc.",
         "⚡ Apart from this, I am following Machine Learnig, Deep Learning, Big Data, and Full Stack Development courses.",
-        "⚡ Maintain overroll GPA of 3.59 from first two acadamic years (up-to-date).",
+        "⚡ Current GPA of 3.6 from first three acadamic years (Dean's List in 2 out of 5 semesters).",
       ],
       website_link: "https://ucsc.cmb.ac.lk/",
     },
@@ -472,11 +472,11 @@ const degrees = {
       alt_name: "PWC",
       duration: "2005 - 2018",
       descriptions: [
-        "⚡ Best acadamic performance in Physical Science stream in A/L examination 2018. (District_Rank - 364 | Island_Rank - 1336)",
+        "⚡ Best acadamic performance in Physical Science stream in A/L examination 2018. (District_Rank - 364 │ Island_Rank - 1336 │ Z-Score - 1.7295)",
         "⚡ Distiction level certificate on Sri Lankan Mathematical Olympiad 2017 by Sri Lanka Olympiad Mathematics Foundation.",
         "⚡ Distiction level certificate on All Island Senior Certificate.",
       ],
-      website_link: "https://en.wikipedia.org/wiki/Prince_of_Wales%27_College,_Moratuwa",
+      website_link: "https://princeofwales.edu.lk/",
     },
   ],
 };
@@ -605,33 +605,44 @@ const experience = {
     {
       title: "Work",
       experiences: [
+        // {
+        //   title: "Junior Accountant",
+        //   company: "Agoal International (PVT) LTD",
+        //   company_url: "https://agoalrugby.com/",
+        //   logo_path: "agoal-international.png",
+        //   duration: "June 2019 - December 2019",
+        //   location: "Stamboul Pl, Colombo 3",
+        //   description:
+        //     "I worked as a Junior accountant under super vision of Charted Accountant. Gain knowledge on Quick book, account balancing and annual audit.",
+        //   color: "#0879bf",
+        // },
+      ],
+    },
+    {
+      title: "Internships",
+      experiences: [
+        {
+          title: "Software Engineer Intern",
+          company: "SimCentric Technologies (PVT) LTD",
+          company_url: "https://www.simct.com/",
+          logo_path: "simcentric_short.jpg",
+          duration: "November 2022 - April 2023",
+          location: "3rd floor, Alnitak Building, 752/5, Dr. Danister De Silva Mawatha, Colombo 9",
+          description:
+            "I have worked as a Inter Software Engineer at SAFTAC Team. During the internship I have completed following tasks: (1) Design and develop new feature in Pathing Tool called Drop-In Animation to change NPC behaviors between two nodes in the path, Special Path feature to create a path according to animation attach to it using blueprint and C++. (2) Use Unreal landscaping tool to design a terrain using real world GIS information. (3) Setup dedicated server on Lyra game framework in Unreal Engine 5.1. (4) Integrate 18 new weapons to SAFTAC.",
+          color: "#ee3c26",
+        },
         {
           title: "Junior Accountant",
-          company: "Agoal International (PVT) LTD",
+          company: "AGOAL iNTERNATIONAL (PVT) LTD",
           company_url: "https://agoalrugby.com/",
           logo_path: "agoal-international.png",
           duration: "June 2019 - December 2019",
           location: "Stamboul Pl, Colombo 3",
           description:
             "I worked as a Junior accountant under super vision of Charted Accountant. Gain knowledge on Quick book, account balancing and annual audit.",
-          color: "#0879bf",
+          color: "#ee3c26",
         },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
-        // {
-        //   title: "Data Science Research Intern",
-        //   company: "Delhivery Pvt. Ltd.",
-        //   company_url: "https://www.delhivery.com/",
-        //   logo_path: "delhivery_logo.png",
-        //   duration: "May 2019 - Sept 2019",
-        //   location: "Gurgaon, Haryana",
-        //   description:
-        //     "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-        //   color: "#ee3c26",
-        // },
       ],
     },
     {
@@ -974,11 +985,11 @@ const contactPageData = {
     subtitle:
       "Colombo, Sri Lanka.",
     avatar_image_path: "address_image.svg",
-    location_map_link: "",
+    location_map_link: "https://maps.app.goo.gl/UxQbVyHQLqj7psa18",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+94 712323019",
+    subtitle: "+94 71 2323 019",
   },
 };
 
