@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "397ae86b8841d15f5c7ab5bc43032eb0",
+    "revision": "38b850d625b05ab6d8374952812483d0",
     "url": "/ronilasanjulalive/index.html"
   },
   {
-    "revision": "ebcb29c5449e5357e198",
+    "revision": "93a1365bb2a7572897df",
     "url": "/ronilasanjulalive/static/css/2.41bc09fa.chunk.css"
   },
   {
-    "revision": "ee78d215213feb5698be",
+    "revision": "ce0c9a3283b551269341",
     "url": "/ronilasanjulalive/static/css/main.adb62afa.chunk.css"
   },
   {
-    "revision": "ebcb29c5449e5357e198",
-    "url": "/ronilasanjulalive/static/js/2.a4e18feb.chunk.js"
+    "revision": "93a1365bb2a7572897df",
+    "url": "/ronilasanjulalive/static/js/2.cb41d65e.chunk.js"
   },
   {
-    "revision": "ee78d215213feb5698be",
-    "url": "/ronilasanjulalive/static/js/main.1def2d54.chunk.js"
+    "revision": "ce0c9a3283b551269341",
+    "url": "/ronilasanjulalive/static/js/main.6df5add6.chunk.js"
   },
   {
     "revision": "d0a1248f103bce1b2b94",
