@@ -989,7 +989,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+94 71 2323 019",
+    subtitle: "+94 xx xxxx xxx",
   },
 };
 
